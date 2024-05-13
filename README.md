@@ -4,10 +4,10 @@
 ## Best Minecraft forum/leak sites:
 
 ## #1 https://nullforums.net/
-- Members: 57,207
-- Messages: 91,686
-- Threads: 60,227
-- Website creation date: 2020. October 19.
+- Members: **57,207**
+- Messages: **91,686**
+- Threads: **60,227**
+- Website creation date: **2020. October 19.**
 
 - ```diff
   + Quality and unique solutions, appearance with continuous innovation
@@ -23,39 +23,39 @@
   ```
 
 ## #2 https://gleaks.pro/
-- Members: 2,022
-- Messages: 1,975
-- Threads: 1,035
+- Members: **2,022**
+- Messages: **1,975**
+- Threads: **1,035**
 - 
 
 ## #3 https://black-minecraft.com/
-- Members: 82,908
-- Messages: 44,550
-- Threads: 9,538
+- Members: **82,908**
+- Messages: **44,550**
+- Threads: **9,538**
 
 
 ## #4 https://spigotunlocked.com/
-- Members: 64,392
-- Messages: 13,372
-- Threads: 4,383
+- Members: **64,392**
+- Messages: **13,372**
+- Threads: **4,383**
 
 
 ## #5 https://blackspigot.com/
-- Members: 486,026
-- Messages: 224,284
-- Threads: 166,353
+- Members: **486,026**
+- Messages: **224,284**
+- Threads: **166,353**
 
 
 ## #6 https://directleaks.net/
-- Members: 125,867
-- Messages: 30,129
-- Threads: 8,662
+- Members: **125,867**
+- Messages: **30,129**
+- Threads: **8,662**
 
 
 ## #7 https://atlantist.site/
-- Members: 1,109
-- Messages: 3,994
-- Threads: 3,922
+- Members: **1,109**
+- Messages: **3,994**
+- Threads: **3,922**
 
 
-Please support my work! PayPal: arteffkods07@gmail.com
+` Please support my work! PayPal: arteffkods07@gmail.com `
