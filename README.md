@@ -17,9 +17,6 @@
   ! Average resource refresh rate
   ```
 - ```diff
-  ! Average resource refresh rate
-  ```
-- ```diff
   - Many popular resources are not on the site or are out of date
   ```
 
