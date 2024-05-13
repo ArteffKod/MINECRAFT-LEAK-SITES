@@ -111,16 +111,16 @@
   + Quality implementations
   ```
 - ```diff
-  + More than 2 350+ resources
+  + More than 6 020+ resources
   ```
 - ```diff
-  + Ultra-fast, almost instantaneous update
+  - Very slow update
   ```
 - ```diff
-  + Popular and VIP resources of almost all other similar sites can be found here
+  + Very old page
   ```
 - ```diff
-  - Relatively frequent maintenance
+  - Outdated resources abandoned support
   ```
 
 
@@ -128,7 +128,7 @@
 - Members: **1,109**
 - Messages: **3,994**
 - Threads: **3,922**
-- Website creation date: **2023. February 08.**
+- Website creation date: **2023. November 13.**
 
 - ```diff
   + Quality implementations
@@ -137,13 +137,7 @@
   + More than 2 350+ resources
   ```
 - ```diff
-  + Ultra-fast, almost instantaneous update
-  ```
-- ```diff
-  + Popular and VIP resources of almost all other similar sites can be found here
-  ```
-- ```diff
-  - Relatively frequent maintenance
+  - Very slow update
   ```
 
 
