@@ -1,7 +1,7 @@
 # MINECRAFT-LEAK-SITES
 `Last updated: 2024. May 13.`
 
-# Best Minecraft forum/leak sites:
+## Best Minecraft forum/leak sites:
 
 ## https://nullforums.net/
 - Members: 57,207
