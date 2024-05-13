@@ -7,6 +7,8 @@
 - Members: 57,207
 - Messages: 91,686
 - Threads: 60,227
+- Website creation date: 2020. October 19.
+
 - ```diff
   + Quality and unique solutions, appearance with continuous innovation
   ```
