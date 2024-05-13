@@ -8,8 +8,19 @@
 - Messages: 91,686
 - Threads: 60,227
 - ```diff
-  + this text is highlighted in green
-  - this text is highlighted in red
+  + Quality and unique solutions, appearance with continuous innovation
+  ```
+- ```diff
+  + More than 6 750+ resources
+  ```
+- ```diff
+  ! Average resource refresh rate
+  ```
+- ```diff
+  ! Average resource refresh rate
+  ```
+- ```diff
+  - Many popular resources are not on the site or are out of date
   ```
 
 ## #2 https://gleaks.pro/
