@@ -107,6 +107,9 @@
 - Website creation date: **2017. October 07.**
 
 - ```diff
+  + Very old page
+  ```
+- ```diff
   + Quality implementations
   ```
 - ```diff
@@ -114,9 +117,6 @@
   ```
 - ```diff
   - Very slow update
-  ```
-- ```diff
-  + Very old page
   ```
 - ```diff
   - Outdated resources abandoned support
