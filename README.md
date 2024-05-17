@@ -32,7 +32,7 @@
   + Quality implementations
   ```
 - ```diff
-  + More than 4 056 resources
+  + More than 4 056+ resources
   ```
 - ```diff
   ! Average resource refresh rate
