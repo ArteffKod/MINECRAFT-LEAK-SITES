@@ -23,9 +23,9 @@
   ```
 
 ## #2 https://gleaks.pro/
-- Members: **2,022**
-- Messages: **1,975**
-- Threads: **1,035**
+- Members: **4,937**
+- Messages: **4,070**
+- Threads: **1,601**
 - Website creation date: **2023. February 08.**
 
 - ```diff
