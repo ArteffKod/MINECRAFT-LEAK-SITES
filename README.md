@@ -22,26 +22,7 @@
   - Many popular resources are not on the site or are out of date
   ```
 
-## #2 https://black-minecraft.com/
-- Members: **82,908**
-- Messages: **44,550**
-- Threads: **9,538**
-- Website creation date: **2020. August 17.**
-
-- ```diff
-  + Quality implementations
-  ```
-- ```diff
-  + More than 4 056+ resources
-  ```
-- ```diff
-  ! Average resource refresh rate
-  ```
-- ```diff
-  - Base language Russian
-  ```
-
-## #3 https://gleaks.pro/
+## #2 https://gleaks.pro/
 - Members: **2,022**
 - Messages: **1,975**
 - Threads: **1,035**
@@ -61,6 +42,25 @@
   ```
 - ```diff
   - Relatively frequent maintenance
+  ```
+
+## #3 https://black-minecraft.com/
+- Members: **82,908**
+- Messages: **44,550**
+- Threads: **9,538**
+- Website creation date: **2020. August 17.**
+
+- ```diff
+  + Quality implementations
+  ```
+- ```diff
+  + More than 4 056+ resources
+  ```
+- ```diff
+  ! Average resource refresh rate
+  ```
+- ```diff
+  - Base language Russian
   ```
 
 ## #4 https://spigotunlocked.com/
